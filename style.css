@@ -1,0 +1,26 @@
+body {
+	font-family: verdana;
+	font-weight: bold;
+	margin: 20px;
+}
+
+.parrafo {
+	margin: 10px 0 0 0;
+}
+
+#correo {
+	background-color: #eeeeee;
+}
+
+p, label {
+	font-family: tahoma !important;
+}
+
+#comentario {
+	width: 200px;
+	height: 40px;
+}
+
+input {
+	margin: 0 0 10px 0;
+}
